@@ -33,7 +33,7 @@ class Diode {
 Diode d2(2, d_2);
 Diode d3(3, d_3);
 Diode d4(4, d_4);
-
+//
 Diode d13(13, 123);
 
 void setup() {
